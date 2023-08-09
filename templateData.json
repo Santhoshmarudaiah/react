@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Moisturizing Cream",
+      "category": "Face",
+      "price": 24.99
+    },
+    {
+      "id": 2,
+      "name": "Exfoliating Scrub",
+      "category": "Face",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "Body Lotion",
+      "category": "Body",
+      "price": 14.99
+    },
+    {
+      "id": 4,
+      "name": "Botanium skin care",
+      "category": "face",
+      "price": 14.99
+    },
+    {
+      "id": 5,
+      "name": "Wellbeing Wash",
+      "category": "face",
+      "price": 14.99
+    },
+    {
+      "id": 6,
+      "name": "Botanium skin care",
+      "category": "face",
+      "price": 14.99
+    },
+    {
+      "id": 7,
+      "name": "Skin Savior",
+      "category": "face",
+      "price": 14.99
+    },
+    {
+      "id": 8,
+      "name": "Coconut Cream",
+      "category": "face",
+      "price": 14.99
+    },
+    {
+      "id": 9,
+      "name": "Smooth Like Satin",
+      "category": "face",
+      "price": 14.99
+    }
+    
+
+  ]
